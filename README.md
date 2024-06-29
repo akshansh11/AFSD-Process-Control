@@ -32,4 +32,6 @@ Here are the names and descriptions of the control parameters for the AFSD Proce
 *F_desired (Desired Force): This is the target force that the control system aims to maintain during the AFSD process.
 
 *kf (Force Sensitivity Coefficient): This coefficient represents the sensitivity of the system's force response to changes in the control input. It is used to model the system dynamics and adjust the force accordingly.
+
+
 App Link: https://afsd-process-control-9wjfgxeydxnbux8q58wjxo.streamlit.app/
